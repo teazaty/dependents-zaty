@@ -1,0 +1,52 @@
+{
+    "name": "dependents-zaty",
+    "version": "1.0.0",
+    "description": "Get the npm dependents of a given package.",
+    "main": "lib/index.js",
+    "directories": {
+      "example": "example"
+    },
+    "dependencies": {
+      "npm-pack-dependents": "^2.0.0",
+      "package-json": "^6.5.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/teazaty/dependents-zaty.git"
+    },
+    "keywords": [
+      "npm",
+      "package",
+      "dependents",
+      "objects"
+    ],
+    "author": "zaty",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/teazaty/dependents-zaty/issues"
+    },
+    "homepage": "https://github.com/teazaty/dependents-zaty#readme",
+    "blah": {
+      "h_img": "http://i.imgur.com/nehBMvB.png"
+    },
+    "files": [
+      "bin/",
+      "app/",
+      "lib/",
+      "dist/",
+      "src/",
+      "scripts/",
+      "resources/",
+      "menu/",
+      "cli.js",
+      "index.js",
+      "bloggify.js",
+      "bloggify.json",
+      "bloggify/"
+    ]
+  }
+  
